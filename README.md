@@ -68,11 +68,11 @@
 <!-- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats : </b>
-   <a href="https://github.com/vmongit/github-readme-stats"><img align="center" alt="Midhun's Github Stats"
-   src="https://github-readme-stats.vercel.app/api?username=vmongit&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117" /></a>
+   <a href="https://github.com/vikramaditya039-cell/github-readme-stats"><img align="center" alt="Midhun's Github Stats"
+   src="https://github-readme-stats.vercel.app/api?username=vikramaditya039-cell&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117" /></a>
    
    <b>Note:</b> Top languages is only a metric of the languages my public code consist of 
-  <a href="https://github.com/vmongit/github-readme-stats"><img align="center" height=200 alt="Sidharth's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vmongit&langs_count=10&count_private=true&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&card_width=445"/></a>
+  <a href="https://github.com/vikramaditya039-cell/github-readme-stats"><img align="center" height=200 alt="Sidharth's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikramaditya039-cell&langs_count=10&count_private=true&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&card_width=445"/></a>
   
   <br/>
 
@@ -133,5 +133,5 @@ no_swap:
 ## ❤ Views and Followers
 
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=vmongit"></a>
-<a href="https://github.com/vmongit?tab=followers"><img src="https://img.shields.io/github/followers/vmongit?style=flat-square&logo=github&color=orange" alt="GitHub Badge"></a>
+    <img src="https://komarev.com/ghpvc/?username=vikramaditya039-cell"></a>
+<a href="https://github.com/vikramaditya039-cell?tab=followers"><img src="https://img.shields.io/github/followers/vikramaditya039-cell?style=flat-square&logo=github&color=orange" alt="GitHub Badge"></a>
