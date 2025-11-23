@@ -126,7 +126,7 @@ no_swap:
 ## 🫱🏼‍🫲🏼 Connect with me:
 
 <p align="left">
-
+<p><a href="mailto:vikramaditya039@gmail.com">Send email</a></p>
 </p>
 
 ## ❤ Views and Followers
